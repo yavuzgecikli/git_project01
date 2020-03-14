@@ -2,9 +2,12 @@ package gitPackage;
 
 public class NextClass {
 	
-	
-	
-	system.out.println(" Hello dear friends:);
+	public static void main(String[] args) {
+		
+
+		System.out.println(" Hello dear friends");
+		
+	}
 	
 	
 	}
