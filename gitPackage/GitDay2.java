@@ -6,7 +6,7 @@ public class GitDay2 {
 		System.out.println(" Future is soon and perfect");
 		System.out.println(" Hello git users");
 		System.out.println("Check if your local is ahead of origine master");
-		
+		System.out.println(" Commit 7");
 	}
 
 }
